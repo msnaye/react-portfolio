@@ -1,0 +1,69 @@
+.portCont{
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px;
+    background: darkcyan;
+    margin:0px;
+}
+.my-projects{
+    margin: 5rem; 
+}
+
+.my-projects-title{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.my-projects-container{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    margin:50px;
+}
+
+.project{
+    padding: 0.5rem;
+    border:5px solid maroon;
+    background-color: whitesmoke;
+}
+
+.project-name{
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.project-image:hover{
+    opacity: 50%;
+}
+
+.project-image{
+        display: block;
+        margin-left:auto;
+        margin-right:auto;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+
+.repo-btn{
+    padding: 0.5rem;
+    margin-right: 1rem;
+    background-color: maroon;
+    color: white;
+    font-size: 1rem;
+    border-radius: 7px;
+    outline: none;
+}
+
+.live-website-btn{
+    padding: 0.5rem;
+    margin-right: 1rem;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 1rem;
+    border-radius: 7px;
+    outline: none;
+}

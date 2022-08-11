@@ -1,0 +1,17 @@
+.about-me {
+    text-align:center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:30px; 
+    background-image: linear-gradient(to right, rgb(38, 134, 134),rgb(222, 226, 140));
+}
+.myName {
+    margin: 50px;
+}
+.mytag{
+    margin:0;
+    
+}
+.me{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin:30px;
+}
